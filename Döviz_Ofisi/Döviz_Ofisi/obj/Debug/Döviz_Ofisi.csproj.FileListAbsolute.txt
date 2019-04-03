@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\Döviz_Ofisi\Döviz_Ofisi\bin\Debug\Döviz_Ofisi.exe.config
+C:\Users\Lenovo\source\repos\Döviz_Ofisi\Döviz_Ofisi\bin\Debug\Döviz_Ofisi.exe
+C:\Users\Lenovo\source\repos\Döviz_Ofisi\Döviz_Ofisi\bin\Debug\Döviz_Ofisi.pdb
+C:\Users\Lenovo\source\repos\Döviz_Ofisi\Döviz_Ofisi\obj\Debug\Döviz_Ofisi.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Döviz_Ofisi\Döviz_Ofisi\obj\Debug\Döviz_Ofisi.Form1.resources
+C:\Users\Lenovo\source\repos\Döviz_Ofisi\Döviz_Ofisi\obj\Debug\Döviz_Ofisi.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Döviz_Ofisi\Döviz_Ofisi\obj\Debug\Döviz_Ofisi.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Döviz_Ofisi\Döviz_Ofisi\obj\Debug\Döviz_Ofisi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Döviz_Ofisi\Döviz_Ofisi\obj\Debug\Döviz_Ofisi.exe
+C:\Users\Lenovo\source\repos\Döviz_Ofisi\Döviz_Ofisi\obj\Debug\Döviz_Ofisi.pdb
